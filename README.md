@@ -1,10 +1,10 @@
 # Data-Science-Projects
-![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.9](https://img.shields.io/badge/Python-3.9-brightgreen.svg) ![NLTK](https://img.shields.io/badge/Library-sklearn-orange.svg) 
+![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.9](https://img.shields.io/badge/Python-3.9-brightgreen.svg) ![NLTK]((https://img.shields.io/badge/Library-sklearn-orange.svg)(https://img.shields.io/badge/Library-pandas-yellow.svg)(https://img.shields.io/badge/Library-numpy-purple.svg)(https://img.shields.io/badge/Library-matplotlib-red.svg)) 
 
 ![hh](https://github.com/Kaushik-Patnaik/Data-Science-Projects/assets/99631370/ee30c0e4-441b-4ec6-9c2d-791a1bb60b07)
 
 ## Why this repository?
-• The main purpose of making this repository is to keep all my Data Science Projects at one place, hence keeping my GitHub clean!<br/>
+• The main purpose of making this repository is to keep all my Data Science Projects using Machine Learning algorithms at one place, hence keeping my GitHub clean!<br/>
 • It looks good, isn't it?
 
 ## Overview
