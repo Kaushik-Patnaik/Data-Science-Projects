@@ -1,5 +1,5 @@
 # Data-Science-Projects
-![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.9](https://img.shields.io/badge/Python-3.9-brightgreen.svg) ![NLTK](https://img.shields.io/badge/Library-sklearn-orange-pandas-yellow-numpy-purple-matplotlib-red.svg)
+![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.9](https://img.shields.io/badge/Python-3.9-brightgreen.svg) ![NLTK](https://img.shields.io/badge/Library-sklearn-orange.svg)
 
 ![hh](https://github.com/Kaushik-Patnaik/Data-Science-Projects/assets/99631370/ee30c0e4-441b-4ec6-9c2d-791a1bb60b07)
 
